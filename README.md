@@ -1,2 +1,0 @@
-# MWS
-MWS-Demo
