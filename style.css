@@ -133,7 +133,7 @@ h2.owl-title {
 }
 
 #wrapper_1 {
-  height: 400px;
+  height: inherit;
   float: left;
   width: 50%;
 }
@@ -144,7 +144,7 @@ h2.owl-title {
 }
 
 #wrapper_2 {
-  height: 400px;
+  height: inherit;
   width: 50%;
   float: right;
 }
@@ -340,3 +340,9 @@ h2.owl-title {
 }
 
 /* Testimonial ends */
+
+.story-section p,
+.experts-section p {
+  text-align: justify;
+  text-justify: inter-word;
+}
